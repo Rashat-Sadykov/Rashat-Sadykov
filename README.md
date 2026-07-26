@@ -32,15 +32,15 @@
 <details><summary><b>📜 Нажмите, чтобы посмотреть сертификаты и документы</b></summary>
 
 ### Нетология
-* **Администрирование СЗИ** — [Открыть](https://github.com/Rashat-Sadykov/certificates/blob/main/%D0%90%D0%B4%D0%BC%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%80%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%A1%D0%97%D0%98.pdf)
-* **Безопасность ОС, системное программирование** — [Открыть](https://github.com/Rashat-Sadykov/certificates/blob/main/%D0%91%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D1%8C%20%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D1%85%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%2C%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%BD%D0%BE%D0%B5%20%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5.pdf)
-* **Основы ИБ** — [Открыть](https://github.com/Rashat-Sadykov/certificates/blob/main/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%20%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D0%98%D0%91.pdf)
-* **Сети передачи данных и безопасность** — [Открыть](https://github.com/Rashat-Sadykov/certificates/blob/main/%D0%A1%D0%B5%D1%82%D0%B8%20%D0%BF%D0%B5%D1%80%D0%B5%D0%B4%D0%B0%D1%87%D0%B8%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85%20%D0%B8%20%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D1%8C.pdf)
+* **Администрирование СЗИ** — [Открыть](https://github.com/Rashat-Sadykov/certificates/blob/main/Administration%20of%20Information%20Security%20Tools.pdf))
+* **Безопасность ОС, системное программирование** — [Открыть](https://github.com/Rashat-Sadykov/certificates/blob/main/Operating%20system%20security%2C%20systems%20programming.pdf)
+* **Основы ИБ** — [Открыть](https://github.com/Rashat-Sadykov/certificates/blob/main/Fundamentals%20of%20Information%20Security.pdf)
+* **Сети передачи данных и безопасность** — [Открыть](https://github.com/Rashat-Sadykov/certificates/blob/main/Data%20Transmission%20Networks%20and%20Security.pdf)
 ### Киберзащитник S7 Airlines
-* **Обеспечение функционирования ИТ-инфраструктуры и ее безопасности** — [Открыть](https://github.com/Rashat-Sadykov/certificates/blob/main/%D0%9E%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B5%D0%BD%D0%B8%D0%B5%20%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%BE%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20%D0%98%D0%A2-%D0%B8%D0%BD%D1%84%D1%80%D0%B0%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%82%D1%83%D1%80%D1%8B%20%D0%B8%20%D0%B5%D0%B5%20%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.pdf)
-* **Основы ИТ и ИБ** — [Открыть](https://github.com/Rashat-Sadykov/certificates/blob/main/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D0%98%D0%A2%20%D0%B8%20%D0%98%D0%91.pdf)
+* **Обеспечение функционирования ИТ-инфраструктуры и ее безопасности** — [Открыть](https://github.com/Rashat-Sadykov/certificates/blob/main/Ensuring%20the%20operation%20and%20security%20of%20IT%20infrastructure.pdf)
+* **Основы ИТ и ИБ** — [Открыть](https://github.com/Rashat-Sadykov/certificates/blob/main/Fundamentals%20of%20IT%20and%20Information%20Security.pdf)
 ### РАНХиГС
-* **Python** — [Открыть](https://github.com/Rashat-Sadykov/certificates/blob/main/%D0%A3%D0%B4%D0%BE%D1%81%D1%82%D0%BE%D0%B2%D0%B5%D1%80%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D0%BF%D0%BE%D0%B2%D1%8B%D1%88%D0%B5%D0%BD%D0%B8%D0%B8%20%D0%BA%D0%B2%D0%B0%D0%BB%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D0%B8%20%D0%A0%D0%90%D0%9D%D0%A5%D0%B8%D0%93%D0%A1.pdf)
+* **Python** — [Открыть](https://github.com/Rashat-Sadykov/certificates/blob/main/RANEPA%20Certificate%20of%20Advanced%20Training.pdf)
 </details>
 
 ---
