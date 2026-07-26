@@ -48,5 +48,5 @@
 ### 📬 Как со мной связаться
 
 * **Telegram:** [@Voltamper9](https://t.me)
-* **Телефон / WhatsApp:** [+7 (929) 390-88-66](https://wa.me)
+* **Телефон / WhatsApp:** [+7 (928) 930-88-66](https://wa.me)
 * **Email:** [voltamper999@mail.ru](mailto:voltamper999@mail.ru)
