@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://glitch.me" alt="Просмотры профиля" />
+  <img src="https://shields.io" alt="Просмотры профиля" />
 </p>
 
 # Привет! 👋
