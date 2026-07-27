@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://komarev.com" alt="Просмотры профиля" />
+  <img src="https://glitch.me" alt="Просмотры профиля" />
 </p>
 
 # Привет! 👋
