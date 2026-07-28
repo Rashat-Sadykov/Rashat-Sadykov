@@ -19,7 +19,8 @@
 * **Результат и подтверждение:** Создана официальная инструкция для ИТ-специалистов образовательных учреждений. Ознакомиться с документом можно здесь: [Скачать инструкцию (.docx)](https://github.com/Rashat-Sadykov/my-lab/blob/main/calculate-linux-schools-instruction.docx)
 
 <details>
-<summary><b>🏆 <code>Посмотреть благодарность от Министерства</code></b></summary>
+<summary>🏆 <b>Посмотреть благодарность от Министерства</b></summary>
+<br>
 
 >  <br>
 >  <img src="https://github.com/Rashat-Sadykov/my-lab/blob/main/Blagodarnost.png" alt="Благодарность" width="600">
