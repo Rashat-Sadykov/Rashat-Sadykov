@@ -3,13 +3,13 @@
 Я Рашат, специалист по информационной безопасности и системному администрированию.
 
 ---
-### 🛠️ Навыки и технологии
+### 🛠️ Навыки и technologies
 
-| Категория | Технологии и инструменты |
-| :--- | :--- |
-| **Информационная безопасность & СКЗИ** | **`SIEM (MaxPatrol 10)`** &nbsp;&bull;&nbsp; **`R-Vision (SOAR/IRP)`** &nbsp;&bull;&nbsp; **`RedCheck`** <br><br> **`Kaspersky Security Center`** &nbsp;&bull;&nbsp; **`Secret Net Studio`** <br><br> **`КриптоПро CSP`** &nbsp;&bull;&nbsp; **`ViPNet Client`** |
-| **Системное администрирование & Сети** | **`Linux`** &nbsp;&bull;&nbsp; **`Windows Server`** &nbsp;&bull;&nbsp; **`Active Directory`** <br><br> **`VPN`** &nbsp;&bull;&nbsp; **`OpenVPN`** &nbsp;&bull;&nbsp; **`RDP`** &nbsp;&bull;&nbsp; **`SSH`** |
-| **Автоматизация** | **`Python`** |
+| Категория | <center>Технологии и инструменты</center> |
+| :--- | :---: |
+| **Информационная безопасность & СКЗИ** | **SIEM (MaxPatrol 10)** &nbsp;&bull;&nbsp; **R-Vision (SOAR/IRP)** &nbsp;&bull;&nbsp; **RedCheck** <br><br> **Kaspersky Security Center** &nbsp;&bull;&nbsp; **Secret Net Studio** <br><br> **КриптоПро CSP** &nbsp;&bull;&nbsp; **ViPNet Client** |
+| **Системное администрирование & Сети** | **Linux** &nbsp;&bull;&nbsp; **Windows Server** &nbsp;&bull;&nbsp; **Active Directory** <br><br> **VPN** &nbsp;&bull;&nbsp; **OpenVPN** &nbsp;&bull;&nbsp; **RDP** &nbsp;&bull;&nbsp; **SSH** |
+| **Автоматизация** | **Python** |
 
 ---
 Мои проекты и практические кейсы
