@@ -7,9 +7,9 @@
 
 | Категория | Технологии и инструменты |
 | :--- | :--- |
-| **Информационная безопасность & СКЗИ** | `SIEM (MaxPatrol 10)` &nbsp;&bull;&nbsp; `R-Vision (SOAR/IRP)` &nbsp;&bull;&nbsp; `RedCheck` <br> `Kaspersky Security Center` &nbsp;&bull;&nbsp; `Secret Net Studio` <br> `КриптоПро CSP` &nbsp;&bull;&nbsp; `ViPNet Client` |
-| **Системное администрирование & Сети** | 🐧 `Linux` &nbsp;&bull;&nbsp; 🪟 `Windows Server` &nbsp;&bull;&nbsp; 📂 `Active Directory` <br> 🌐 `VPN` &nbsp;&bull;&nbsp; 🧡 `OpenVPN` &nbsp;&bull;&nbsp; 🖥️ `RDP` &nbsp;&bull;&nbsp; 🔑 `SSH` |
-| **Автоматизация** | 🐍 `Python` |
+| **Информационная безопасность & СКЗИ** | <h4> `SIEM (MaxPatrol 10)` &nbsp;&bull;&nbsp; `R-Vision (SOAR/IRP)` &nbsp;&bull;&nbsp; `RedCheck` <br><br> `Kaspersky Security Center` &nbsp;&bull;&nbsp; `Secret Net Studio` <br><br> `КриптоПро CSP` &nbsp;&bull;&nbsp; `ViPNet Client` </h4> |
+| **Системное администрирование & Сети** | <h4> `Linux` &nbsp;&bull;&nbsp; `Windows Server` &nbsp;&bull;&nbsp; `Active Directory` <br><br> `VPN` &nbsp;&bull;&nbsp; `OpenVPN` &nbsp;&bull;&nbsp; `RDP` &nbsp;&bull;&nbsp; `SSH` </h4> |
+| **Автоматизация** | <h4> `Python` </h4> |
 
 ---
 Мои проекты и практические кейсы
