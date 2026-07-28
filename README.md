@@ -34,18 +34,18 @@
 
 ---
 
-<details open><summary><b>📜 Нажмите, чтобы посмотреть сертификаты и документы</b></summary>
+<details><summary><b>📜 Нажмите, чтобы посмотреть сертификаты и документы</summary>
 
 ### Нетология
-* **Администрирование СЗИ** — [Открыть](https://github.com/Rashat-Sadykov/certificates/blob/main/AdminSZI.png)
-* **Безопасность ОС, системное программирование** — [Открыть](https://github.com/Rashat-Sadykov/certificates/blob/main/BezopOS.png)
-* **Основы ИБ** — [Открыть](https://github.com/Rashat-Sadykov/certificates/blob/main/OsnovIB.png)
-* **Сети передачи данных и безопасность** — [Открыть](https://github.com/Rashat-Sadykov/certificates/blob/main/Setperdanibez.png)
+* **Администрирование СЗИ** — <br> <img src="https://github.com/Rashat-Sadykov/certificates/blob/main/AdminSZI.png"
+* **Безопасность ОС, системное программирование** — <br> <img src="https://github.com/Rashat-Sadykov/certificates/blob/main/BezopOS.png"
+* **Основы ИБ** — <br> <img src="https://github.com/Rashat-Sadykov/certificates/blob/main/OsnovIB.png)"
+* **Сети передачи данных и безопасность** — <br> <img src="https://github.com/Rashat-Sadykov/certificates/blob/main/Setperdanibez.png"
 ### Киберзащитник S7 Airlines
-* **Обеспечение функционирования ИТ-инфраструктуры и ее безопасности** — [Открыть](https://github.com/Rashat-Sadykov/certificates/blob/main/FunkcIT-IB.png)
-* **Основы ИТ и ИБ** — [Открыть](https://github.com/Rashat-Sadykov/certificates/blob/main/OsnovIT-IB.png)
+* **Обеспечение функционирования ИТ-инфраструктуры и ее безопасности** — <br> <img src="https://github.com/Rashat-Sadykov/certificates/blob/main/FunkcIT-IB.png"
+* **Основы ИТ и ИБ** — <br> <img src="https://github.com/Rashat-Sadykov/certificates/blob/main/OsnovIT-IB.png"
 ### РАНХиГС
-* **Python** — [Открыть](https://github.com/Rashat-Sadykov/certificates/blob/main/Ranepa.png)
+* **Python** — <br> <img src="https://github.com/Rashat-Sadykov/certificates/blob/main/Ranepa.png"
 </details>
 
 ---
