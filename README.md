@@ -37,15 +37,15 @@
 <details open><summary><b>📜 Нажмите, чтобы посмотреть сертификаты и документы</b></summary>
 
 ### Нетология
-* **Администрирование СЗИ** — [Открыть](https://github.com/Rashat-Sadykov/certificates/blob/main/Administration%20of%20Information%20Security%20Tools.pdf))
-* **Безопасность ОС, системное программирование** — [Открыть](https://github.com/Rashat-Sadykov/certificates/blob/main/Operating%20system%20security%2C%20systems%20programming.pdf)
-* **Основы ИБ** — [Открыть](https://github.com/Rashat-Sadykov/certificates/blob/main/Fundamentals%20of%20Information%20Security.pdf)
-* **Сети передачи данных и безопасность** — [Открыть](https://github.com/Rashat-Sadykov/certificates/blob/main/Data%20Transmission%20Networks%20and%20Security.pdf)
+* **Администрирование СЗИ** — [Открыть](https://github.com/Rashat-Sadykov/certificates/blob/main/AdminSZI.png)
+* **Безопасность ОС, системное программирование** — [Открыть](https://github.com/Rashat-Sadykov/certificates/blob/main/BezopOS.png)
+* **Основы ИБ** — [Открыть](https://github.com/Rashat-Sadykov/certificates/blob/main/OsnovIB.png)
+* **Сети передачи данных и безопасность** — [Открыть](https://github.com/Rashat-Sadykov/certificates/blob/main/Setperdanibez.png)
 ### Киберзащитник S7 Airlines
-* **Обеспечение функционирования ИТ-инфраструктуры и ее безопасности** — [Открыть](https://github.com/Rashat-Sadykov/certificates/blob/main/Ensuring%20the%20operation%20and%20security%20of%20IT%20infrastructure.pdf)
-* **Основы ИТ и ИБ** — [Открыть](https://github.com/Rashat-Sadykov/certificates/blob/main/Fundamentals%20of%20IT%20and%20Information%20Security.pdf)
+* **Обеспечение функционирования ИТ-инфраструктуры и ее безопасности** — [Открыть](https://github.com/Rashat-Sadykov/certificates/blob/main/FunkcIT-IB.png)
+* **Основы ИТ и ИБ** — [Открыть](https://github.com/Rashat-Sadykov/certificates/blob/main/OsnovIT-IB.png)
 ### РАНХиГС
-* **Python** — [Открыть](https://github.com/Rashat-Sadykov/certificates/blob/main/RANEPA%20Certificate%20of%20Advanced%20Training.pdf)
+* **Python** — [Открыть](https://github.com/Rashat-Sadykov/certificates/blob/main/Ranepa.png)
 </details>
 
 ---
