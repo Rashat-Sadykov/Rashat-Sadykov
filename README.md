@@ -35,7 +35,7 @@
 
 ---
 <details>
-<summary><b>🛡️ <code>Нажмите, чтобы посмотреть сертификаты и документы</code></b></summary>
+<summary><h3>🔵 🛡️ Нажмите, чтобы посмотреть сертификаты и документы</h3></summary>
 
 ### Нетология
 * **Администрирование СЗИ** — <br> <img src="https://github.com/Rashat-Sadykov/certificates/blob/main/AdminSZI.png" width="600" />
