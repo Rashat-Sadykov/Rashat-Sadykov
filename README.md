@@ -21,7 +21,7 @@
 <details>
   <summary>📜 Посмотреть благодарность от Министерства</summary>
   <br>
-  <img src="Blagodarnost.png" alt="Благодарность" width="600">
+  <img src="https://githubusercontent.com" alt="Благодарность" width="600">
 </details>
 
 **2. Практические кейсы по администрированию, ИБ и сетям**
