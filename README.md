@@ -3,12 +3,13 @@
 Я Рашат, специалист по информационной безопасности и системному администрированию.
 
 ---
-
 ### 🛠️ Навыки и технологии
 
-* **Информационная безопасность & СКЗИ:** `SIEM (MaxPatrol 10)` · `R-Vision (SOAR/IRP)` · `RedCheck` · `Kaspersky Security Center` · `Secret Net Studio` · `КриптоПро CSP` · `ViPNet Client`
-* **Системное администрирование & Сети:** `Linux` · `Windows Server` · `Active Directory` · `VPN` · `OpenVPN` · `RDP` · `SSH`
-* **Автоматизация:** `Python`
+| Категория | Технологии и инструменты |
+| :--- | :--- |
+| **Информационная безопасность & СКЗИ** | ![SIEM](https://shields.io) ![R-Vision](https://shields.io) ![RedCheck](https://shields.io) <br> ![Kaspersky](https://shields.io) ![Secret Net Studio](https://shields.io) <br> ![КриптоПро](https://shields.io) ![ViPNet](https://shields.io) |
+| **Системное администрирование & Сети** | ![Linux](https://shields.io) ![Windows Server](https://shields.io) ![Active Directory](https://shields.io) <br> ![VPN](https://shields.io) ![OpenVPN](https://shields.io) ![RDP](https://shields.io) ![SSH](https://shields.io) |
+| **Автоматизация** | ![Python](https://shields.io) |
 
 ---
 Мои проекты и практические кейсы
