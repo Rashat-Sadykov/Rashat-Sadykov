@@ -34,7 +34,7 @@
 
 ---
 
-<details><summary><b>📜 Нажмите, чтобы посмотреть сертификаты и документы</b></summary>
+<details open><summary><b>📜 Нажмите, чтобы посмотреть сертификаты и документы</b></summary>
 
 ### Нетология
 * **Администрирование СЗИ** — [Открыть](https://github.com/Rashat-Sadykov/certificates/blob/main/Administration%20of%20Information%20Security%20Tools.pdf))
