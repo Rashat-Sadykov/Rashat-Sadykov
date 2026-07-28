@@ -34,9 +34,8 @@
 * **Подтверждение навыков:** Скриншоты развернутых стендов и выполненных настроек доступны в репозитории [my-lab](https://rashat-sadykov.github.io/my-lab/).
 
 ---
-
 <details>
-<summary>💼 Нажмите, чтобы посмотреть сертификаты и документы</summary>
+<summary><b>🛡️ <code>Нажмите, чтобы посмотреть сертификаты и документы</code></b></summary>
 
 ### Нетология
 * **Администрирование СЗИ** — <br> <img src="https://github.com/Rashat-Sadykov/certificates/blob/main/AdminSZI.png" width="600" />
