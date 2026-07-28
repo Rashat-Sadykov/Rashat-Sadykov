@@ -33,23 +33,23 @@
 
 ---
 
-> ### 🛡️ Нажмите, чтобы посмотреть сертификаты и документы
-> 
-> <details>
+### 🗣️ Нажмите, чтобы посмотреть сертификаты и документы
+ 
+<details>
 <summary>Нажмите, чтобы открыть список документов</summary>
-<br>
-> ### Нетология
-> * **Администрирование СЗИ** — <br> <img src="https://github.com/Rashat-Sadykov/certificates/blob/main/AdminSZI.png" width="600" />
-> * **Безопасность ОС, системное программирование** — <br> <img src="https://github.com/Rashat-Sadykov/certificates/blob/main/BezopOS.png" width="600" />
-> * **Основы ИБ** — <br> <img src="https://github.com/Rashat-Sadykov/certificates/blob/main/OsnovIB.png" width="600" />
-> * **Сети передачи данных и безопасность** — <br> <img src="https://github.com/Rashat-Sadykov/certificates/blob/main/Setperdanibez.png" width="600" />
-> ### Киберзащитник S7 Airlines
-> * **Обеспечение функционирования ИТ-инфраструктуры и ее безопасности** — <br> <img src="https://github.com/Rashat-Sadykov/certificates/blob/main/FunkcIT-IB.png" width="600" />
-> * **Основы ИТ и ИБ** — <br> <img src="https://github.com/Rashat-Sadykov/certificates/blob/main/OsnovIT-IB.png" width="600" />
-> ### РАНХиГС
-> * **Python** — <br> <img src="https://github.com/Rashat-Sadykov/certificates/blob/main/Ranepa.png" width="600" />
->
-> </details>
+
+### Нетология
+* **Администрирование СЗИ** — <br> <img src="https://github.com/Rashat-Sadykov/certificates/blob/main/AdminSZI.png" width="600" />
+* **Безопасность ОС, системное программирование** — <br> <img src="https://github.com/Rashat-Sadykov/certificates/blob/main/BezopOS.png" width="600" />
+* **Основы ИБ** — <br> <img src="https://github.com/Rashat-Sadykov/certificates/blob/main/OsnovIB.png" width="600" />
+* **Сети передачи данных и безопасность** — <br> <img src="https://github.com/Rashat-Sadykov/certificates/blob/main/Setperdanibez.png" width="600" />
+### Киберзащитник S7 Airlines
+* **Обеспечение функционирования ИТ-инфраструктуры и ее безопасности** — <br> <img src="https://github.com/Rashat-Sadykov/certificates/blob/main/FunkcIT-IB.png" width="600" />
+* **Основы ИТ и ИБ** — <br> <img src="https://github.com/Rashat-Sadykov/certificates/blob/main/OsnovIT-IB.png" width="600" />
+### РАНХиГС
+* **Python** — <br> <img src="https://github.com/Rashat-Sadykov/certificates/blob/main/Ranepa.png" width="600" />
+
+</details>
 
 ---
 
