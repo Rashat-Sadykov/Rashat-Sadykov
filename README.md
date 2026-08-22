@@ -48,6 +48,7 @@
 <summary><h3>🔵 🛡️ Нажмите, чтобы посмотреть сертификаты и документы</h3></summary>
 
 ### Нетология
+* **Специалист по Информационной Безопасности** - <br> <img src="https://github.com/Rashat-Sadykov/certificates/blob/main/Svidetelstvo%20IB.png" width="600" />
 * **Администрирование СЗИ** — <br> <img src="https://github.com/Rashat-Sadykov/certificates/blob/main/AdminSZI.png" width="600" />
 * **Безопасность ОС, системное программирование** — <br> <img src="https://github.com/Rashat-Sadykov/certificates/blob/main/BezopOS.png" width="600" />
 * **Основы ИБ** — <br> <img src="https://github.com/Rashat-Sadykov/certificates/blob/main/OsnovIB.png" width="600" />
