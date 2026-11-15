@@ -21,7 +21,7 @@
 <summary><h3>🏅 Посмотреть характеристику по итогам кибербитвы (развернуть)</h3></summary>
 
 > <br>
-> <img src="https://github.com" alt="Характеристика" width="600">
+> <img src="https://github.com/Rashat-Sadykov/Rashat-Sadykov/blob/main/Harakter.png" alt="Характеристика" width="600">
 > </details>
 ---
 ## 📂 Мои проекты и практические кейсы
